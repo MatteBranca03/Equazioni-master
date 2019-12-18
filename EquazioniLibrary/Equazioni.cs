@@ -20,7 +20,7 @@ namespace EquazioniLibrary
             if (a == 0)
                 return true;
             else
-                return false;
+                return false; 
         }
         public static bool IsDegree2(double a)
         {
